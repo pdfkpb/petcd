@@ -1,2 +1,1 @@
-# petcd
-etcd python client
+# petcd - A Python Client for etcd
